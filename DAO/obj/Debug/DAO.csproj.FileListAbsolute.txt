@@ -1,0 +1,9 @@
+F:\BTL\ql_dangky_kinhdoanh\DAO\bin\Debug\DAO.dll
+F:\BTL\ql_dangky_kinhdoanh\DAO\bin\Debug\DAO.pdb
+F:\BTL\ql_dangky_kinhdoanh\DAO\bin\Debug\DTO.dll
+F:\BTL\ql_dangky_kinhdoanh\DAO\bin\Debug\DTO.pdb
+F:\BTL\ql_dangky_kinhdoanh\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+F:\BTL\ql_dangky_kinhdoanh\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+F:\BTL\ql_dangky_kinhdoanh\DAO\obj\Debug\DAO.csproj.CopyComplete
+F:\BTL\ql_dangky_kinhdoanh\DAO\obj\Debug\DAO.dll
+F:\BTL\ql_dangky_kinhdoanh\DAO\obj\Debug\DAO.pdb

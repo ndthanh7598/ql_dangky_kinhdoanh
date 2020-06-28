@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ql_dangky_kinhdoanh", "ql_dangky_kinhdoanh\ql_dangky_kinhdoanh.csproj", "{5C9CF453-FFA7-431A-9B1D-4B1FA4AA3C07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{F8C19672-47A4-4A56-8EED-61CFCB25814F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{6A1B8F1D-A8A2-4088-A58C-DB0F5B880345}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C9CF453-FFA7-431A-9B1D-4B1FA4AA3C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9CF453-FFA7-431A-9B1D-4B1FA4AA3C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9CF453-FFA7-431A-9B1D-4B1FA4AA3C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9CF453-FFA7-431A-9B1D-4B1FA4AA3C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C19672-47A4-4A56-8EED-61CFCB25814F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C19672-47A4-4A56-8EED-61CFCB25814F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C19672-47A4-4A56-8EED-61CFCB25814F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C19672-47A4-4A56-8EED-61CFCB25814F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A1B8F1D-A8A2-4088-A58C-DB0F5B880345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1B8F1D-A8A2-4088-A58C-DB0F5B880345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1B8F1D-A8A2-4088-A58C-DB0F5B880345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1B8F1D-A8A2-4088-A58C-DB0F5B880345}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F7BAC21-323E-4CCD-872D-7D0518291C4C}
+	EndGlobalSection
+EndGlobal
